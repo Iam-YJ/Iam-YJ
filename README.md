@@ -10,9 +10,6 @@
 <img alt="Cisco" src ="https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white"/>  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iam-YJ)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 💻 GitHub Analytics
 ![Iam-YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iam-YJ&show_icons=true)
 
